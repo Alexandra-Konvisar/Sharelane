@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class SharelaneSingUpTest {
 
         WebDriver driver;
-1233
+
         @Test
         public void fiveDigitsZipCodeTest() {
             System.setProperty("webdriver.chrome.driver", "src/test/resources/chromedriver");
